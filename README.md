@@ -9,7 +9,7 @@
 In your browser, open the file:
 
     /www/index.html
-
+ 
 ### PhoneGap CLI
 
 This repository is automatically downloaded by [phonegap-cli][phonegap-cli-url]
